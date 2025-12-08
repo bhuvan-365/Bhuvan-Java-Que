@@ -1,0 +1,7 @@
+// Write a Java program to print 'Hello' on screen.
+public class HelloPrint {
+    public static void main(String[] args) {
+        System.out.println("Hello");
+    }
+}
+
