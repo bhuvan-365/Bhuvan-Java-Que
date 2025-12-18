@@ -6,7 +6,7 @@ public class RectangleAreaPerimeter {
         int area = length * breadth;
         int perimeter = 2 * (length + breadth);
 
-        System.out.println("Area = " + area);
+        System.out.println("Area = " + area);// println give one line space in java
         System.out.println("Perimeter = " + perimeter);
     }
 }
